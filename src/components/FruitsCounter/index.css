@@ -1,0 +1,27 @@
+/* Write your CSS here */
+.bg {
+  background-color: #ffd569;
+  height: 100vh;
+  background-size: cover;
+}
+.container {
+  padding: 40vh;
+  background-color: #ffffff;
+}
+.im1 {
+  height: 30vh;
+  padding-right: 10vh;
+}
+.bo {
+  display: flex;
+  flex-direction: row;
+}
+.b1 {
+  padding-left: 10vh;
+}
+.button {
+  background-color: #007bff;
+  border-color: #007bff;
+  border-radius: 3px;
+  color: #ffffff;
+}
